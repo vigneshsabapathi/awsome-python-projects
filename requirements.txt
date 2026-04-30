@@ -1,2 +1,18 @@
-# Add project dependencies below as mini-projects are added.
 # Install with: uv pip install -r requirements.txt
+
+# bagels - modern UIs
+customtkinter==5.2.2
+textual==8.2.5
+
+# Transitive dependencies (pinned for reproducibility)
+darkdetect==0.8.0
+linkify-it-py==2.1.0
+markdown-it-py==4.0.0
+mdit-py-plugins==0.5.0
+mdurl==0.1.2
+packaging==26.2
+platformdirs==4.9.6
+pygments==2.20.0
+rich==15.0.0
+typing-extensions==4.15.0
+uc-micro-py==2.0.0
