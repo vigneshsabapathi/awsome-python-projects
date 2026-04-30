@@ -1,0 +1,2 @@
+# Add project dependencies below as mini-projects are added.
+# Install with: uv pip install -r requirements.txt
