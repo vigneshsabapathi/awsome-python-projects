@@ -48,6 +48,15 @@ A collection of mini Python projects, each in its own subfolder. Most ship as a 
 | [`bottles/`](bottles/README.md) | "99 Bottles of Beer" lyrics generator covering both classic and **niNety nniinE** random-case remix variants. | CLI · GUI · TUI |
 | [`numeral_systems/`](numeral_systems/README.md) | Multi-base converter (2..36) + Roman numerals + fractional bases + two's-complement (8/16/32/64-bit). | CLI · GUI · TUI |
 | [`periodic_table/`](periodic_table/README.md) | All 118 elements with category-colored tiles, search, details panel, and quiz mode. | CLI · GUI · TUI |
+| [`pig_latin/`](pig_latin/README.md) | Pig Latin translator with proper-noun preservation, contractions, hyphens, plus Greek and Ubbi-Dubbi modes. | CLI · GUI · TUI |
+| [`powerball/`](powerball/README.md) | Lottery simulation with EV calculator, break-even jackpot solver, lifetime-loss model. | CLI · GUI · TUI |
+| [`primes/`](primes/README.md) | Sieve of Eratosthenes + segmented + Miller-Rabin primality + **Ulam spiral** visualization. | CLI · GUI · TUI |
+| [`progress_bar/`](progress_bar/README.md) | Five progress bar styles (blocks/simple/dots/gradient/spinner) with EMA-smoothed ETA. | CLI · GUI · TUI |
+| [`rainbow/`](rainbow/README.md) | Animated rainbow text with HSV→RGB→ANSI-256 quantization, lolcat phase shift, arcs and bands. | CLI · GUI · TUI |
+| [`rps/`](rps/README.md) | Rock Paper Scissors with **Markov-predictor** AI mode + always-win cheat mode (covers #59 + #60). | CLI · GUI · TUI |
+| [`rot13/`](rot13/README.md) | ROT13 cipher with self-inverse demo and ROT47 printable-ASCII variant. | CLI · GUI · TUI |
+| [`rotating_cube/`](rotating_cube/README.md) | 3D wireframe cube projected to ASCII via rotation matrices. Toggle to tetra / octa / dodecahedron. | CLI · GUI · TUI |
+| [`ur/`](ur/README.md) | Royal Game of Ur (Finkel reconstruction) with H-shaped board and **expectimax** AI. | CLI · GUI · TUI |
 
 ## Setup
 
