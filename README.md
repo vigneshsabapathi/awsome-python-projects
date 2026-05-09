@@ -39,6 +39,15 @@ A collection of mini Python projects, each in its own subfolder. Most ship as a 
 | [`leetspeak/`](leetspeak/README.md) | Probabilistic l33t-text converter with multi-char `at`→`@` substitutions and brute-force decode panel. | CLI · GUI · TUI |
 | [`lucky_stars/`](lucky_stars/README.md) | Star-roll fortune-telling with seedable readings + JSON history + compatibility scoring. | CLI · GUI · TUI |
 | [`mancala/`](mancala/README.md) | Kalah-variant Mancala with α-β minimax AI (easy/medium/hard/expert), animated stone-sowing. | CLI · GUI · TUI |
+| [`maze_runner_2d/`](maze_runner_2d/README.md) | Top-down ASCII maze with 3 generators (recursive backtracker / Prim / Wilson) + BFS solution overlay + fog-of-war. | CLI · GUI · TUI |
+| [`maze_runner_3d/`](maze_runner_3d/README.md) | First-person ASCII pseudo-3D dungeon view with mini-map, torch-radius dimming, occasional goblin sprites. | CLI · GUI · TUI |
+| [`million_dice/`](million_dice/README.md) | NumPy-vectorized dice statistics with embedded matplotlib + CLT convergence panel (N=1..5). | CLI · GUI · TUI |
+| [`mondrian/`](mondrian/README.md) | Recursive-subdivision generative art with Mondrian / Rothko / Bauhaus presets and PNG export. | CLI · GUI · TUI |
+| [`monty_hall/`](monty_hall/README.md) | Monty Hall puzzle with N-door generalization, Wilson CI bars, and step-by-step Bayesian derivation tab. | CLI · GUI · TUI |
+| [`mult_table/`](mult_table/README.md) | Multiplication table with 12-stop heatmap and modular-arithmetic mode showing Z/nZ ring patterns. | CLI · GUI · TUI |
+| [`bottles/`](bottles/README.md) | "99 Bottles of Beer" lyrics generator covering both classic and **niNety nniinE** random-case remix variants. | CLI · GUI · TUI |
+| [`numeral_systems/`](numeral_systems/README.md) | Multi-base converter (2..36) + Roman numerals + fractional bases + two's-complement (8/16/32/64-bit). | CLI · GUI · TUI |
+| [`periodic_table/`](periodic_table/README.md) | All 118 elements with category-colored tiles, search, details panel, and quiz mode. | CLI · GUI · TUI |
 
 ## Setup
 
