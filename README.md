@@ -18,6 +18,16 @@ A collection of mini Python projects, each in its own subfolder. Most ship as a 
 | [`dice_roller/`](dice_roller/README.md) | Parses `NdM±K` plus extended `4d6kh3` keep-highest. Monte Carlo histogram, seedable, history. | CLI · GUI · TUI |
 | [`fibonacci/`](fibonacci/README.md) | Five algorithms (iter / naive / memo / matrix-exp / Binet) with side-by-side benchmark and φ convergence chart. | CLI · GUI · TUI |
 | [`game_of_life/`](game_of_life/README.md) | Conway's GoL via NumPy 8-shift vectorization. Glider / pulsar / Gosper gun patterns, toroidal edges, trail fade. | CLI · GUI · TUI |
+| [`caesar_hacker/`](caesar_hacker/README.md) | Brute-forces a Caesar cipher: ranks all 26 shifts by chi-squared + word-hit hybrid score, with letter-overlap diff. | CLI · GUI · TUI |
+| [`cho_han/`](cho_han/README.md) | Edo-period Japanese dice gambling. Animated cup, bankroll history chart, Monte Carlo ruin probability. | CLI · GUI · TUI |
+| [`countdown/`](countdown/README.md) | Visual timer rendered as hand-authored seven-segment ASCII digits. Pomodoro mode, stopwatch toggle. | CLI · GUI · TUI |
+| [`deep_cave/`](deep_cave/README.md) | Procedural infinite-scroll cave via constrained random walk. Hazards (gems, water, boulders), seeded reproducible runs. | CLI · GUI · TUI |
+| [`dice_math/`](dice_math/README.md) | Speed math drill on rolled dice. Modes: sum / product / max / pair. Persisted JSON leaderboard. | CLI · GUI · TUI |
+| [`etching/`](etching/README.md) | Etch-A-Sketch drawing — arrow keys move a pen on a canvas. 8-direction movement, color cycle, PNG export, playback replay. | CLI · GUI · TUI |
+| [`factor_finder/`](factor_finder/README.md) | Divisors + prime factorization with Miller-Rabin + Pollard's rho. σ₀, σ₁, φ, prime/perfect/abundant/deficient classification. | CLI · GUI · TUI |
+| [`forest_fire/`](forest_fire/README.md) | Drossel-Schwabl forest-fire CA via NumPy shifts. Wind direction, lightning, near-critical density. | CLI · GUI · TUI |
+| [`four_in_a_row/`](four_in_a_row/README.md) | Connect Four with α-β minimax AI (depths 2/4/6), center-out ordering, transposition table, animated drops. | CLI · GUI · TUI |
+| [`guess_number/`](guess_number/README.md) | Higher/lower with binary-search hint button + entropy display. Reverse mode (computer guesses optimally). | CLI · GUI · TUI |
 | [`hangman/`](hangman/README.md) | Word-guess game with hand-drawn ASCII gallows + **Evil Hangman** adversarial mode. | CLI · GUI · TUI |
 
 ## Setup
