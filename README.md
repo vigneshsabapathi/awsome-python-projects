@@ -28,7 +28,17 @@ A collection of mini Python projects, each in its own subfolder. Most ship as a 
 | [`forest_fire/`](forest_fire/README.md) | Drossel-Schwabl forest-fire CA via NumPy shifts. Wind direction, lightning, near-critical density. | CLI · GUI · TUI |
 | [`four_in_a_row/`](four_in_a_row/README.md) | Connect Four with α-β minimax AI (depths 2/4/6), center-out ordering, transposition table, animated drops. | CLI · GUI · TUI |
 | [`guess_number/`](guess_number/README.md) | Higher/lower with binary-search hint button + entropy display. Reverse mode (computer guesses optimally). | CLI · GUI · TUI |
+| [`fortune_ball/`](fortune_ball/README.md) | Magic 8-ball with sentiment-balanced answer pool, animated shake, deterministic "remember mode" via SHA-256-seeded RNG. | CLI · GUI · TUI |
+| [`hacking/`](hacking/README.md) | Fallout-style password hacking minigame with Mastermind-like likeness clues + Shannon-entropy hint. | CLI · GUI · TUI |
 | [`hangman/`](hangman/README.md) | Word-guess game with hand-drawn ASCII gallows + **Evil Hangman** adversarial mode. | CLI · GUI · TUI |
+| [`hex_grid/`](hex_grid/README.md) | Honeycomb ASCII tilings with axial / cube / offset coordinate overlays + SVG export. | CLI · GUI · TUI |
+| [`hourglass/`](hourglass/README.md) | ASCII hourglass with angle-of-repose grain settling + age-graded color fade. | CLI · GUI · TUI |
+| [`hungry_robots/`](hungry_robots/README.md) | Grid chase game: robots step toward you, collisions create wrecks. Safe-teleport + level progression. | CLI · GUI · TUI |
+| [`jaccuse/`](jaccuse/README.md) | Film-noir mystery deduction with weighted-witness reliability (10% lie rate) + auto-deduce hints. | CLI · GUI · TUI |
+| [`langton_ant/`](langton_ant/README.md) | Langton's Ant CA with multi-color "Turmite" rule strings (RL / RLR / LLRR / LRRRRRLLR). | CLI · GUI · TUI |
+| [`leetspeak/`](leetspeak/README.md) | Probabilistic l33t-text converter with multi-char `at`→`@` substitutions and brute-force decode panel. | CLI · GUI · TUI |
+| [`lucky_stars/`](lucky_stars/README.md) | Star-roll fortune-telling with seedable readings + JSON history + compatibility scoring. | CLI · GUI · TUI |
+| [`mancala/`](mancala/README.md) | Kalah-variant Mancala with α-β minimax AI (easy/medium/hard/expert), animated stone-sowing. | CLI · GUI · TUI |
 
 ## Setup
 
