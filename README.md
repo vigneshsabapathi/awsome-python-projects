@@ -57,6 +57,16 @@ A collection of mini Python projects, each in its own subfolder. Most ship as a 
 | [`rot13/`](rot13/README.md) | ROT13 cipher with self-inverse demo and ROT47 printable-ASCII variant. | CLI · GUI · TUI |
 | [`rotating_cube/`](rotating_cube/README.md) | 3D wireframe cube projected to ASCII via rotation matrices. Toggle to tetra / octa / dodecahedron. | CLI · GUI · TUI |
 | [`ur/`](ur/README.md) | Royal Game of Ur (Finkel reconstruction) with H-shaped board and **expectimax** AI. | CLI · GUI · TUI |
+| [`seven_segment/`](seven_segment/README.md) | Reusable seven-segment ASCII display library with LCD/LED color presets and warm-up animation. | CLI · GUI · TUI |
+| [`shining_carpet/`](shining_carpet/README.md) | Animated tessellated carpet patterns (Shining hex / Persian medallion / Bauhaus weave) with click-stamp twist. | CLI · GUI · TUI |
+| [`simple_sub/`](simple_sub/README.md) | Substitution cipher with **simulated-annealing auto-crack** + frequency analysis chart. | CLI · GUI · TUI |
+| [`sine_message/`](sine_message/README.md) | Text wobbling along a sine wave with phase scroll, multi-wave overlay, and Lissajous mode. | CLI · GUI · TUI |
+| [`sliding_puzzle/`](sliding_puzzle/README.md) | 15-puzzle with **A\*** solver (Manhattan heuristic), animated tile slides, parity-check, n=3/4/5. | CLI · GUI · TUI |
+| [`snail_race/`](snail_race/README.md) | 4-snail race with personality-based step distributions, sportsbook odds, and bankroll betting. | CLI · GUI · TUI |
+| [`soroban/`](soroban/README.md) | Japanese abacus rendering with two-way number↔beads sync and step-by-step addition animation. | CLI · GUI · TUI |
+| [`sound_mimic/`](sound_mimic/README.md) | Simon-says memory game with `winsound.Beep` audio, 4/6/8 pad modes, speed-up rounds. | CLI · GUI · TUI |
+| [`spongecase/`](spongecase/README.md) | sPoNgEbOb mocking-text converter with intensity slider, deterministic mode, and 🧽 at max. | CLI · GUI · TUI |
+| [`sudoku/`](sudoku/README.md) | 9×9 sudoku with backtracking + MRV solver, uniqueness-preserving generator, hint button. | CLI · GUI · TUI |
 
 ## Setup
 
