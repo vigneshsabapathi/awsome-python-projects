@@ -1,3 +1,4 @@
+comtypes==1.4.16
 contourpy==1.3.3
 customtkinter==5.2.2
 cycler==0.12.1
@@ -15,7 +16,10 @@ pillow==12.2.0
 platformdirs==4.9.6
 pygments==2.20.0
 pyparsing==3.3.2
+pypiwin32==223
 python-dateutil==2.9.0.post0
+pyttsx3==2.99
+pywin32==311
 rich==15.0.0
 six==1.17.0
 textual==8.2.5

@@ -67,6 +67,24 @@ A collection of mini Python projects, each in its own subfolder. Most ship as a 
 | [`sound_mimic/`](sound_mimic/README.md) | Simon-says memory game with `winsound.Beep` audio, 4/6/8 pad modes, speed-up rounds. | CLI · GUI · TUI |
 | [`spongecase/`](spongecase/README.md) | sPoNgEbOb mocking-text converter with intensity slider, deterministic mode, and 🧽 at max. | CLI · GUI · TUI |
 | [`sudoku/`](sudoku/README.md) | 9×9 sudoku with backtracking + MRV solver, uniqueness-preserving generator, hint button. | CLI · GUI · TUI |
+| [`tts_talker/`](tts_talker/README.md) | Offline text-to-speech via pyttsx3 with voice picker, rate / volume, save-to-WAV. | CLI · GUI · TUI |
+| [`three_card/`](three_card/README.md) | Three-card monte shuffle game with track-eye / cheat reveal modes and history replay. | CLI · GUI · TUI |
+| [`tic_tac_toe/`](tic_tac_toe/README.md) | 3×3 with minimax α-β pruning, imperfect-AI difficulty levels (30%/70%/100%), misère mode. | CLI · GUI · TUI |
+| [`hanoi/`](hanoi/README.md) | Tower of Hanoi (3-peg N-disk) with recursive solver, animated auto-solve, 2^N − 1 move proof. | CLI · GUI · TUI |
+| [`trick_questions/`](trick_questions/README.md) | Quiz of original riddle-style trick questions with hints + tier-based difficulty escalation. | CLI · GUI · TUI |
+| [`twenty_forty_eight/`](twenty_forty_eight/README.md) | 2048 with classic tile-color palette, undo stack, expectimax AI auto-play. | CLI · GUI · TUI |
+| [`vigenere/`](vigenere/README.md) | Vigenère cipher with **3-stage auto-crack** (Kasiski → IC → per-column Caesar attack). | CLI · GUI · TUI |
+| [`water_bucket/`](water_bucket/README.md) | Die-Hard-3 water-pouring puzzle with BFS shortest-path solver and GCD/Bezout solvability proof. | CLI · GUI · TUI |
+| [`bouncing_dvd/`](bouncing_dvd/README.md) | Classic bouncing DVD logo with multi-logo support, corner-hit counter, color cycle on bounce. | CLI · GUI · TUI |
+| [`carrot_box/`](carrot_box/README.md) | 2-player bluffing game with peek/swap/keep state machine and vs-AI bluff mode. | CLI · GUI · TUI |
+| [`digital_clock/`](digital_clock/README.md) | Real-time seven-segment clock with 12/24h, world-clock mode, color presets, AM/PM ☀/🌙 indicators. | CLI · GUI · TUI |
+| [`digital_stream/`](digital_stream/README.md) | Matrix-style falling green digital rain with depth-grid composite + katakana/digits/latin charsets. | CLI · GUI · TUI |
+| [`dna_viz/`](dna_viz/README.md) | Animated rotating DNA double helix with valid A-T / C-G base pairs and DNA→mRNA transcribe mode. | CLI · GUI · TUI |
+| [`ducklings/`](ducklings/README.md) | Waddling ASCII ducklings with mother-duck lag-chain following + 3 species (regular / mallard / mandarin). | CLI · GUI · TUI |
+| [`fast_draw/`](fast_draw/README.md) | Reaction-time drill with false-start detection, sub-ms timer, rolling Avg-10 stats. | CLI · GUI · TUI |
+| [`fish_tank/`](fish_tank/README.md) | Ambient ASCII aquarium with 7 fish species, bubbles, swaying plants, schooling behavior. | CLI · GUI · TUI |
+| [`flooder/`](flooder/README.md) | Flood-fill color puzzle (14×14, 25 moves) with greedy hint button via BFS region expansion. | CLI · GUI · TUI |
+| [`gullible/`](gullible/README.md) | Interactive trick prompt with 5 variants and multilingual yes/no detection. | CLI · GUI · TUI |
 
 ## Setup
 
